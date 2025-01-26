@@ -3,7 +3,7 @@
 ---
 
 <h3 align="center">I'm a passionate Flutter Developer</h3>
-<h4 align="center">I've been watching Flutter since beta version and start using it professionally since 1.0.</h4>
+<h6 align="center">I've been watching Flutter since beta version and start using it professionally since 1.0.</h6>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=uzuki-P&theme=flat)](https://github.com/uzuki-P)
 
