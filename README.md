@@ -1,7 +1,5 @@
 <h1 align="center">Hi There 👋 </h1>
 
----
-
 <h3 align="center">I'm a passionate Flutter Developer</h3>
 <h6 align="center">I've been watching Flutter since beta version and start using it professionally since 1.0.</h6>
 
@@ -9,6 +7,7 @@
 
 - 🔭 I’m currently working on [My Habit](https://github.com/uzuki-P/my_habit)
 - ✍️ Read my random journey on [My Blog](https://blog.jarpajar.my.id/)
+- ⌨️ I also really like "ricing" my linux. You can check my [dotconfig](https://github.com/uzuki-P/dotconfig) if you interested.
 
 <!--
 **uzuki-P/uzuki-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
