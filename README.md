@@ -1,25 +1,13 @@
-<h1 align="center">Hi There 👋 </h1>
+# Hi There 👋
 
-<h3 align="center">I'm a passionate Flutter Developer</h3>
-<h6 align="center">I've been watching Flutter since beta version and start using it professionally since 1.0.</h6>
+I really like to develop using flutter. I've been watching Flutter since
+beta version and start using it professionally since 1.0. Like to follow new tech
+and learn new stuff. Right now working at [PT Global Investa Capital](https://globalinvestacapital.com/)
+as Senior mobile dev. Outside work I really like japanese music and playing games.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=uzuki-P&theme=flat)](https://github.com/uzuki-P)
+[![trophy](https://github-profile-trophy.vercel.app/?username=uzuki-P&theme=flat)]
 
 - 🔭 I’m currently working on [My Habit](https://github.com/uzuki-P/my_habit)
 - ✍️ Read my random journey on [My Blog](https://blog.jarpajar.my.id/)
-- ⌨️ I also really like "ricing" my linux. You can check my [dotconfig](https://github.com/uzuki-P/dotconfig) if you interested.
-
-<!--
-**uzuki-P/uzuki-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⌨️ I also really like "ricing" my linux. You can check my
+[dotconfig](https://github.com/uzuki-P/dotconfig) if you interested.
